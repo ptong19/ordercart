@@ -27,13 +27,16 @@ function clearCart() {
   // var table = document.getElementById('cart');
 
   // try somethings new with childNodes
+  credit : https://www.w3schools.com/jsref/prop_node_childnodes.asp
 
   // var tbody = table.childNodes;
   // console.log(tbody[0].childNodes);
-  // //var nodes = tbody.firstChild;
-
   
+  credit: https://www.w3schools.com/jsref/prop_node_firstchild.asp
+  // var nodes = tbody.firstChild;
 
+
+  credit: https://www.w3schools.com/jsref/met_node_removechild.asp
   // for (var i = 0; i < cart.items.length; i++) {
   //   //tbody.removeChild(tbody.firstChild);
   // }
